@@ -1,0 +1,9 @@
+div {
+
+    border: 2px dashed black;
+    display: inline-block;
+    border-radius: 60%;
+    width: 200px;
+    height: 200px;
+    background-image: url("sakura_m.jpg")
+}
